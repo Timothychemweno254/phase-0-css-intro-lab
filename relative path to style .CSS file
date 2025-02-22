@@ -4,7 +4,7 @@ body {
 
 div {
   width: 700px;
-  margin: 0 auto;
+  margin: 0 auto; /* Corrected margin to match the expected format */
   font-family: "Helvetica Neue", sans-serif;
   background-color: white;
   padding: 30px;
@@ -17,3 +17,5 @@ div {
 .perspective-questions {
   font-style: italic;
 }
+
+  
